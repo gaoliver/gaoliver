@@ -121,80 +121,80 @@ transition: 0.5s;
 <div class="container" style="padding: 10px;">
 <div class="container title">
 <div class="row justify-content-center">
-<h1>GABRIEL RAMOS</h1>
-<h4 style="margin-top: 20px; margin-left: 10px; color: red">(in development)</h4>
+    <h1>GABRIEL RAMOS</h1>
+    <h4 style="margin-top: 20px; margin-left: 10px; color: red">(in development)</h4>
 </div>
 </div>
 <div class="container corpo">
 <div class="row justify-content-center">
-<h3 class="col-auto mr-auto">SCIENTE,</h3>
-<h3 class="col-auto mr-auto">TECH</h3>
-<h4 class="col-auto mr-auto">&</h4>
-<h3 class="col-auto">LOVE</h3>
+    <h3 class="col-auto mr-auto">SCIENTE,</h3>
+    <h3 class="col-auto mr-auto">TECH</h3>
+    <h4 class="col-auto mr-auto">&</h4>
+    <h3 class="col-auto">LOVE</h3>
 </div>
 <div class="row justify-content-center">
-<div class="line"></div>
+    <div class="line"></div>
 </div>
 
 
 <!-- Links -->
 <div class="row justify-content-center" id="menu">
-<a href="#sobre-mim">Sobre mim</a>
-<a href="#criacao-de-app">Criação de APP</a>
-<a href="#criacao-de-site">Criação de site</a>
+    <a href="#sobre-mim">Sobre mim</a>
+    <a href="#criacao-de-app">Criação de APP</a>
+    <a href="#criacao-de-site">Criação de site</a>
 </div>
 
 
 <!-- Sobre mim -->
 <div class="row justify-content-center" id="sobre-mim">
-<img class="perfil" src="https://2.gravatar.com/avatar/50d28bf3914015126a191e0e7466f50b?s=500&d=mm&r=g" alt="">
-<div class="row justify-content-center" style="width: 50%; margin-top: -80px;">
-<li>Sobre mim</li>
-<p style="font-weight: bold;">Meu nome é Gabriel Ramos. Sou desenvolvedor WEB e Mobile.</p>
-<p>Minha paixão por ciência e tecnologia me levaram a estudar física na UERJ (Universidade do Estado do Rio de Janeiro. Lá, eu me envolvi com duas coisas que mudaram a minha vida: A Olimpíada Brasileira de Astronomia e Astronáutica, e
-o Grupo de Foguetes do Rio de Janeiro.</p>
-</div>
-<p>Na OBA (Olimpíada Brasileira de Astronomia e Astronáutica, eu sou palestrante e planetarista. Dando aulas de astronomia por todo o Brasil para centenas de alunos, professores e entusiastas. Além de estar envolvido com a preparação dos
-alunos que competem pelo Brasil nos países ao redor do mundo.</p>
-<p>Com o GRFJ (o Grupo de Foguetes), eu participei como programador, trabalhando na área de Payload e participando da área da aviônica dos foguetes. Estive envolvido com os foguetes Canalle Platinado II e Atom, que foram, respectivamente,
-campeões brasileiro e mundial (em 3º lugar).</p>
-<p>Hoje eu trabalho mais diretamente com criação e desenvolvimento de produtos WEB e mobile, criando sites e aplicativos para todo o tipo de cliente. Sou um amante convicto de ciência e tecnologia, e tenho projetos incríveis que me levam
-a experiências extraordinárias.</p>
-<div class="row justify-content-center" style="width: 100%;">
-<!-- Facebook -->
-<div class="col-sm-1 social-icon">
-<a href="http://facebook.com/nerdlineoficial">
-    <img class="social" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="">
-</a>
-</div>
-<!-- Instagram -->
-<div class="col-sm-1 social-icon">
-<a href="http://instagram.com/eugaoliver">
-    <img class="social" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="">
-</a>
-</div>
-</div>
+    <img class="perfil" src="https://2.gravatar.com/avatar/50d28bf3914015126a191e0e7466f50b?s=500&d=mm&r=g" alt="">
+    <div class="row justify-content-center" style="width: 50%; margin-top: -80px;">
+        <li>Sobre mim</li>
+        <p style="font-weight: bold;">Meu nome é Gabriel Ramos. Sou desenvolvedor WEB e Mobile.</p>
+        <p>Minha paixão por ciência e tecnologia me levaram a estudar física na UERJ (Universidade do Estado do Rio de Janeiro. Lá, eu me envolvi com duas coisas que mudaram a minha vida: A Olimpíada Brasileira de Astronomia e Astronáutica, e
+            o Grupo de Foguetes do Rio de Janeiro.</p>
+    </div>
+    <p>Na OBA (Olimpíada Brasileira de Astronomia e Astronáutica, eu sou palestrante e planetarista. Dando aulas de astronomia por todo o Brasil para centenas de alunos, professores e entusiastas. Além de estar envolvido com a preparação dos
+        alunos que competem pelo Brasil nos países ao redor do mundo.</p>
+    <p>Com o GRFJ (o Grupo de Foguetes), eu participei como programador, trabalhando na área de Payload e participando da área da aviônica dos foguetes. Estive envolvido com os foguetes Canalle Platinado II e Atom, que foram, respectivamente,
+        campeões brasileiro e mundial (em 3º lugar).</p>
+    <p>Hoje eu trabalho mais diretamente com criação e desenvolvimento de produtos WEB e mobile, criando sites e aplicativos para todo o tipo de cliente. Sou um amante convicto de ciência e tecnologia, e tenho projetos incríveis que me levam
+        a experiências extraordinárias.</p>
+    <div class="row justify-content-center" style="width: 100%;">
+        <!-- Facebook -->
+        <div class="col-sm-1 social-icon">
+            <a href="http://facebook.com/nerdlineoficial">
+                <img class="social" src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="">
+            </a>
+        </div>
+        <!-- Instagram -->
+        <div class="col-sm-1 social-icon">
+            <a href="http://instagram.com/eugaoliver">
+                <img class="social" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="">
+            </a>
+        </div>
+    </div>
 </div>
 
 
 
 <!-- Criação de APP -->
 <div class="row justify-content-center topico" id="criacao-de-app">
-<li>Criação de APP</li>
-<img src="https://www.searchpng.com/wp-content/uploads/2019/01/Mobile-Apps-PNG-Image.png" alt="">
-<p>Hoje em dia, o mundo está curvado diante dos aparelhos celulares, facilitando a vida de bilhões de pessoas e trazendo mais praticidade às tarefas do dia-a-dia.</p>
-<p>Para se estar atualizado no mundo digital, você e sua marca precisam ir até os seus clientes, e tendo seu próprio APP deixa tudo mais fácil.</p>
-<p>Entre em contato e faça uma cotação agora mesmo!</p>
+    <li>Criação de APP</li>
+    <img src="https://www.searchpng.com/wp-content/uploads/2019/01/Mobile-Apps-PNG-Image.png" alt="">
+    <p>Hoje em dia, o mundo está curvado diante dos aparelhos celulares, facilitando a vida de bilhões de pessoas e trazendo mais praticidade às tarefas do dia-a-dia.</p>
+    <p>Para se estar atualizado no mundo digital, você e sua marca precisam ir até os seus clientes, e tendo seu próprio APP deixa tudo mais fácil.</p>
+    <p>Entre em contato e faça uma cotação agora mesmo!</p>
 </div>
 
 <!-- Criançao de site -->
 <div class="row justify-content-center topico" id="criacao-de-site">
-<li>Criação de site</li>
-<img src="https://img.icons8.com/bubbles/2x/domain.png" alt="">
-<p>Todo mundo precisa de um lugar para chamar de lar. Este é o lugar onde deixamos todas as nossas informações. E quem quiser nos procurar, já sabe nosso endereço. Na internet, as marcas e negócios precisam também ter seu próprio lar, chamado
-"website", onde estará tudo relacionado a sua marca, negócio ou produto.</p>
-<p>Através do seu website, você pode realizar vendas, fechar negócios, permitir que pessoas entrem em contato, falar melhor sobre sua empresa ou seu trabalho, e qualquer outra coisa que desejar.</p>
-<p>Entre em contato e faça uma cotação agora mesmo!</p>
+    <li>Criação de site</li>
+    <img src="https://img.icons8.com/bubbles/2x/domain.png" alt="">
+    <p>Todo mundo precisa de um lugar para chamar de lar. Este é o lugar onde deixamos todas as nossas informações. E quem quiser nos procurar, já sabe nosso endereço. Na internet, as marcas e negócios precisam também ter seu próprio lar, chamado
+        "website", onde estará tudo relacionado a sua marca, negócio ou produto.</p>
+    <p>Através do seu website, você pode realizar vendas, fechar negócios, permitir que pessoas entrem em contato, falar melhor sobre sua empresa ou seu trabalho, e qualquer outra coisa que desejar.</p>
+    <p>Entre em contato e faça uma cotação agora mesmo!</p>
 </div>
 </div>
 </div>
