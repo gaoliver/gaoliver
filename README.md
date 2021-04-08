@@ -24,7 +24,7 @@
 
 ## Summary 👨🏽‍💻
 
-I am a Web/Mobile Developer, experienced in JavaScript and frameworks like React and React Native, Redux, PHP, CSS, HTML, Python and Node. Also have done some projects in other languages, like C#.Net. I have worked in some great big projects for companies and even for the government.
+I am a **Web/Mobile Developer**, experienced in **JavaScript** and frameworks like **React** and **React Native**, **Redux**, **PHP**, **CSS**, **HTML**, **Python** and **Node**. Also have done some projects in other languages, like **C#.Net**. I have worked in some great big projects for companies and even for the government.
 
 To study and work hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company.
 
