@@ -1,4 +1,6 @@
-![gabrielramos-logo](/assets/GabrielRamos-logos_black.png)
+<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_black.png" width="400px" />
+
+<!-- ![gabrielramos-logo](/assets/GabrielRamos-logos_black.png) -->
 
 #### This is my profile. Know me.
 
