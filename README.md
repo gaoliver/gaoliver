@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_black.png" width="400px" />
+<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_transparent.png" width="400px" />
 </p>
 
 <h2 align="center" style="margin-top:30px">
@@ -20,13 +20,15 @@
 
 <br />
 
-## Summary
+
+
+## Summary 👨🏽‍💻
 
 I am a Web/Mobile Developer, experienced in JavaScript and frameworks like React and React Native, Redux, PHP, CSS, HTML, Python and Node. Also have done some projects in other languages, like C#.Net. I have worked in some great big projects for companies and even for the government.
 
 To study and work hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company.
 
-## Projects
+## Projects 💻
 
 #### Loomer Tech
 
@@ -41,14 +43,10 @@ To study and work hard to be the best possible in front-end development is what 
 - **FEMPERJ:** _(React Native app - Android/iOS - Discontinued)_. Responsible for all the front-end creation from scratch.
 - **Gonçalves e Filhos Importações:** _(React Native app - Android/iOS)_ Front-end developer of all the application.
 
-## Find my apps on Expo:
+<br />
 
-> https://expo.io/@gaoliver/projects/
-
-## Download my apps (APK):
-
-> https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing
-
-## See my LinkedIn profile:
-
-> https://linkedin.com/in/gabrielocramos
+> **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**
+>
+> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>**
+>
+> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
