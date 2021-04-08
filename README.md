@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_black.png" width="400px" />
+<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_transparent.png" width="400px" />
 </p>
 
 <h2 align="center" style="margin-top:30px">
