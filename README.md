@@ -43,10 +43,19 @@ To study and work hard to be the best possible in front-end development is what 
 - **FEMPERJ:** _(React Native app - Android/iOS - Discontinued)_. Responsible for all the front-end creation from scratch.
 - **Gonçalves e Filhos Importações:** _(React Native app - Android/iOS)_ Front-end developer of all the application.
 
+#### Others
+
+- **Milk & Fruit:** _(HTML, CSS, PHP, JavaScript, Wordpress - Web)_ Main developer of all website (front-end and back-end), in all three versions until the actual one. - https://milkefruit.com.br
+
+- **NerdLine:** _(HTML, CSS, PHP, JavaScript, Wordpress - Web)_ This is my (abandoned) personal project, developed fully by myself as front and back-end. I've coded this website for the main purpose of letting people up-to-date with the new features on geek universe, such as technology, comic books, movies, games and more. - https://nerdline.com.br
+
 <br />
 
-> **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**
+> Other awesome projects of mine can be found in my repos and through the links below.
 >
-> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>**
+>> **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**
 >
-> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
+>> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>**
+>
+>> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
+>
