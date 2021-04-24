@@ -51,7 +51,7 @@ To study and work hard to be the best possible in front-end development is what 
 
 <br />
 
-> ### **Other awesome projects of mine can be found in my repos and through the links below.**
+> #### **Other awesome projects of mine can be found in my repos and through the links below.**
 >> **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**\
 >> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>** \
 >> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
