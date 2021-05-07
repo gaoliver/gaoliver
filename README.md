@@ -28,7 +28,7 @@
 
 ## Summary 👨🏽‍💻
 
-I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript** and frameworks like **ES6/7/8**, **JQuery** , **React** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node**. I also have done some projects in other languages, like **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
+I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript** and frameworks like **ES6/7/8**, **JQuery** , **React** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
 
 Studying and working hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
 
