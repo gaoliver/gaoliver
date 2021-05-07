@@ -10,9 +10,13 @@
 <a href="https://twitter.com/eugaoliver">
   <img alt="Gabriel's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/gabrielocramos/">
   <img alt="Gabriel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/eugaoliver/">
   <img alt="Gabriel's Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
 </a>
@@ -28,7 +32,7 @@ I am a **Web/Mobile Developer**, experienced in **JavaScript** and frameworks li
 
 To study and work hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company.
 
-## Projects 💻
+## Projects 📱💻
 
 #### Loomer Tech
 
