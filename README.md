@@ -24,8 +24,6 @@
 
 <br />
 
-
-
 ## Summary 👨🏽‍💻
 
 I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript** and frameworks like **ES6/7/8**, **JQuery** , **React** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
@@ -58,10 +56,10 @@ Studying and working hard to be the best possible in front-end development is wh
 <br />
 
 > #### **Other awesome projects of mine can be found in my repos and through the links below.**
->> **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**\
->> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>** \
->> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
 >
+> > **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**\
+> > **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>** \
+> > **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
 
 ---
 
@@ -70,3 +68,13 @@ Studying and working hard to be the best possible in front-end development is wh
 My personal webapp for portfolio and resumé (CV) is in current development. Soonly, it is going to be ready and online.
 
 You can watch the progress <a href="https://gaoliver.github.io" target="_blank">**`here`**</a>.
+
+<p align="center">
+<a>
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/gif-2.gif" height="300px" />
+</a>
+&nbsp;
+<a>
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GIF.gif" width="533px" />
+</a>
+</p>
