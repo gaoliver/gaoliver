@@ -71,7 +71,10 @@ My personal webapp for portfolio and resumé (CV) is in current development. Soo
 
 You can watch the progress <a href="https://gaoliver.github.io" target="_blank">**`here`**</a>.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/gif-2.gif" height="400px" />
 
-<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/gif-2.gif" />
+&nbsp;
 
 <img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GIF.gif" />
+</p>
