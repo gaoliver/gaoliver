@@ -62,3 +62,12 @@ Studying and working hard to be the best possible in front-end development is wh
 >> **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>** \
 >> **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
 >
+
+---
+<br />
+
+## Website in development
+
+My personal webapp for portfolio and resumé (CV) is in current development. Soonly, it is going to be ready and online.
+
+You can watch the progress <a href="https://gaoliver.github.io">**`here`**</a>.
