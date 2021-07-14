@@ -2,7 +2,13 @@
 <img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_transparent.png" width="400px" />
 </p>
 
-<h2 align="center" style="margin-top:30px">
+<br/>
+
+<h3 align="center">
+Junior Software Developer @ <b>B2W Digital / Americanas S.A</b>.
+</h3>
+
+<h2 align="center" style="font-weight: bold">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is my profile. Get to know me.
 </h2>
 
@@ -26,7 +32,7 @@
 
 ## Summary 👨🏽‍💻
 
-I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript** and frameworks like **ES6/7/8**, **JQuery** , **React** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
+I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery** , **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
 
 Studying and working hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
 
