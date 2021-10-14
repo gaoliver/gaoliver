@@ -73,7 +73,7 @@ Studying and working hard to be the best possible in front-end development is wh
 
 My personal webapp for portfolio and resumé (CV) is in current development. It is going to be ready and online soon.
 
-You can watch the progress <a href="https://gaoliver.github.io" target="_blank">**`here`**</a>.
+You can watch the progress <a href="https://gaoliver.github.io/my-webapp" target="_blank">**`here`**</a>.
 
 <p align="center">
 <a>
