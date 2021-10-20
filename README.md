@@ -5,7 +5,7 @@
 <br/>
 
 <h3 align="center">
-Junior Software Developer @ <b>B2W Digital / Americanas S.A</b>.
+React Native Developer @ <b>B2W Digital / Americanas S.A</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
@@ -39,6 +39,11 @@ Studying and working hard to be the best possible in front-end development is wh
 <br />
 
 ## Projects 📱💻
+
+#### Americanas S.A.
+
+- **Soub! 2021 App:** _(React Native app - Android/iOS)_ Front-end development. International e-commerce app for Android and iOS, in the largest Company in Latin America. In this app, buyers can find products they like and buy it in many ways, as in the website. - https://soubarato.com
+
 
 #### Loomer Tech
 
