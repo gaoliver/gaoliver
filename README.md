@@ -5,7 +5,7 @@
 <br/>
 
 <h3 align="center">
-React Native Developer @ <b>B2W Digital / Americanas S.A</b>.
+Frontend Developer @ <b>Dept Agency</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
@@ -32,9 +32,9 @@ React Native Developer @ <b>B2W Digital / Americanas S.A</b>.
 
 ## Summary 👨🏽‍💻
 
-I am a **Front-end Web/Mobile Developer**, experienced in **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery** , **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry.
+I am a **Developer**, experienced in **Frontend and Mobile development** using **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery**, **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry, like [Amperj website](https://www.amperj.org/) and [Soub! app (for Americanas S.A.)](https://www.soubarato.com.br/hotsite/app?pfm_pos=maintop1&pfm_index=0&pfm_carac=Nome%20da%20area&pfm_page=hotsite&c=hotsite%20app&pid=site&pfm_type=vit_spacey).
 
-Studying and working hard to be the best possible in front-end development is what I got for my life. Getting always up-to-date with newer technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
+Studying and working hard to be the best possible in development is what I got for my life. Getting always up-to-date with the newest technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
 
 <br />
 
