@@ -1,11 +1,11 @@
 <p align="center">
-<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-logos_transparent.png" width="400px" />
+<img align="center" alt="gabrielramos-logo" src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GabrielRamos-greenIcon.png" width="400px" />
 </p>
 
 <br/>
 
 <h3 align="center">
-Frontend Developer @ <b>Dept Agency</b>.
+Frontend Developer @ <b>DEPT®</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
@@ -32,13 +32,18 @@ Frontend Developer @ <b>Dept Agency</b>.
 
 ## Summary 👨🏽‍💻
 
-I am a **Developer**, experienced in **Frontend and Mobile development** using **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery**, **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies and even for the Rio de Janeiro Public Ministry, like [Amperj website](https://www.amperj.org/) and [Soub! app (for Americanas S.A.)](https://www.soubarato.com.br/hotsite/app?pfm_pos=maintop1&pfm_index=0&pfm_carac=Nome%20da%20area&pfm_page=hotsite&c=hotsite%20app&pid=site&pfm_type=vit_spacey).
+I am a **Developer**, experienced in **Frontend and Mobile development** using **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery**, **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies in different countries. See some of those projects below.
 
 Studying and working hard to be the best possible in development is what I got for my life. Getting always up-to-date with the newest technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
 
 <br />
 
 ## Projects 📱💻
+
+#### DEPT®
+
+- **Hogeschool Rotterdam - App for students:** _(React Native app - Android/iOS)_ Front-end development. Development of an App for students to keep in touch with everything about their courses on the Hogeschool Rotterdam University. - https://mijn.hr.nl
+- **Hogeschool Rotterdam - Web for students:** _(NextJS - Web)_ Front-end development. Development of a web portal for students to keep in touch with everything about their courses on the Hogeschool Rotterdam University. - https://mijn.hr.nl
 
 #### Americanas S.A.
 
@@ -76,16 +81,16 @@ Studying and working hard to be the best possible in development is what I got f
 
 ## Website in development
 
-My personal webapp for portfolio and resumé (CV) is in current development. It is going to be ready and online soon.
+See my portfolio website <a href="https://gaoliver.github.io/my-webapp" target="_blank">**`here`**</a>, and find a very nice experience using it.
 
-You can watch the progress <a href="https://gaoliver.github.io/my-webapp" target="_blank">**`here`**</a>.
+<br />
 
 <p align="center">
 <a>
-<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/gif-2.gif" height="300px" />
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/website-mobile.gif" height="300px" />
 </a>
 &nbsp;
 <a>
-<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/GIF.gif" width="533px" />
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/website-desktop.gif" width="533px" />
 </a>
 </p>
