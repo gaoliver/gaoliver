@@ -4,13 +4,13 @@
 
 <br/>
 
-<h2 align="center" style="font-size: 40px; color: #207177"><b>GABRIEL RAMOS</b></h2>
+<h1 align="center" style="font-size: 40px; color: #207177" color="#207177"><b>GABRIEL RAMOS</b></h1>
 <h3 align="center">
 Frontend Developer @ <b>DEPT®</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
-<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/hand.gif" width="25px"> This is my profile. Get to know me.
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/hand.webp" width="25px"> This is my profile. Get to know me.
 </h2>
 
 <p align="center">
@@ -49,7 +49,6 @@ Studying and working hard to be the best possible in development is what I got f
 #### Americanas S.A.
 
 - **Soub! 2021 App:** _(React Native app - Android/iOS)_ Front-end development. International e-commerce app for Android and iOS, in the largest Company in Latin America. In this app, buyers can find products they like and buy it in many ways, as in the website. - https://soubarato.com
-
 
 #### Loomer Tech
 
