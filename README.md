@@ -10,7 +10,7 @@ Frontend Developer @ <b>DEPT®</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:25px"> This is my profile. Get to know me.
+<img src="https://raw.githubusercontent.com/gaoliver/gaoliver/main/assets/hand.gif" width="25px"> This is my profile. Get to know me.
 </h2>
 
 <p align="center">
