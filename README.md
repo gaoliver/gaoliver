@@ -41,47 +41,15 @@ Studying and working hard to be the best possible in development is what I got f
 
 ## Projects 📱💻
 
-#### DEPT®
-
-- **Hogeschool Rotterdam - App for students:** _(React Native app - Android/iOS)_ Front-end development. Development of an App for students to keep in touch with everything about their courses on the Hogeschool Rotterdam University. - https://mijn.hr.nl
-- **Hogeschool Rotterdam - Web for students:** _(NextJS - Web)_ Front-end development. Development of a web portal for students to keep in touch with everything about their courses on the Hogeschool Rotterdam University. - https://mijn.hr.nl
-
-#### Americanas S.A.
-
-- **Soub! 2021 App:** _(React Native app - Android/iOS)_ Front-end development. International e-commerce app for Android and iOS, in the largest Company in Latin America. In this app, buyers can find products they like and buy it in many ways, as in the website. - https://soubarato.com
-
-#### Loomer Tech
-
-- **TennisPro:** _(React Native app - Android/iOS)_ Front-end development and features. Creator of the mobile store for administrators and regular users.
-- **LOB Imóveis:** _(React Native app - Android/iOS)_ Front-end development. Creator of navigation structure, favorite list and all the features.
-- **Ferti-Peixe:** _(React Native app - Android/iOS)_ Front-end development. Responsible for the both regular and Representatives apps front-end.
-- **Peça Store:** _(React Native app - Android/iOS)_ Front-end development. Creator of all front-end app from scratch. In development.
-
-#### Inventa Produtos Digitais
-
-- **AMPERJ:** _(HTML, CSS, PHP, JavaScript, Wordpress - Web)_ Web developer responsible for all the features and improvements asked for the website and intranet spaces. Main Develper of the 2020/2021 layout, made from scratch. - https://www.amperj.org
-- **FEMPERJ:** _(React Native app - Android/iOS - Discontinued)_. Responsible for all the front-end creation from scratch.
-- **Gonçalves e Filhos Importações:** _(React Native app - Android/iOS)_ Front-end developer of all the application.
-
-#### Others
-
-- **Milk & Fruit:** _(HTML, CSS, PHP, JavaScript, Wordpress - Web)_ Main developer of all website (front-end and back-end), in all three versions until the actual one. - https://milkefruit.com.br
-
-- **NerdLine:** _(HTML, CSS, PHP, JavaScript, Wordpress - Web)_ This is my (abandoned) personal project, developed fully by myself as front and back-end. I've coded this website for the main purpose of letting people up-to-date with the new features on geek universe, such as technology, comic books, movies, games and more. - https://nerdline.com.br
+You can find some of my best projects on my website, together with my whole portfolio. <a href="https://gabrielramos.app" target="_blank">Check it out!</a>
 
 <br />
 
 > #### **Other awesome projects of mine can be found in my repos and through the links below.**
 >
-> > **Find my apps on <a href="https://expo.io/@gaoliver/projects/">Expo</a>**\
-> > **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing">APPs (APK)</a>** \
-> > **See my <a href="https://linkedin.com/in/gabrielocramos">LinkedIn Profile</a>**
-
----
-
-## My portfolio website
-
-See my portfolio website <a href="https://gaoliver.github.io/" target="_blank">**`here`**</a>, and find a very nice experience using it.
+> > **Find my apps on <a href="https://expo.io/@gaoliver/projects/" target="_blank">Expo</a>**\
+> > **Download my <a href="https://drive.google.com/drive/folders/1wXlUHFEWCwRFvQqOgwXQY-zoVSvzEGhh?usp=sharing" target="_blank">APPs (APK)</a>** \
+> > **See my <a href="https://linkedin.com/in/gabrielocramos" target="_blank">LinkedIn Profile</a>**
 
 <br />
 
