@@ -6,7 +6,7 @@
 
 <h1 align="center" style="font-size: 40px; color: #207177" color="#207177"><b>GABRIEL RAMOS</b></h1>
 <h3 align="center">
-Frontend Developer @ <b>DEPT®</b>.
+Full Stack Developer @ <b>SteelTrace</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
