@@ -6,7 +6,7 @@
 
 <h1 align="center" style="font-size: 40px; color: #207177" color="#207177"><b>GABRIEL RAMOS</b></h1>
 <h3 align="center">
-Full Stack Developer @ <b>SteelTrace</b>.
+Senior Fullstack Developer @ <b>SteelTrace</b>.
 </h3>
 
 <h2 align="center" style="font-weight: bold">
@@ -14,13 +14,8 @@ Full Stack Developer @ <b>SteelTrace</b>.
 </h2>
 
 <p align="center">
-<a href="https://twitter.com/eugaoliver">
-  <img alt="Gabriel's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-&nbsp;
-&nbsp;
 <a href="https://www.linkedin.com/in/gabrielocramos/">
-  <img alt="Gabriel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Gabriel's LinkedIN" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 &nbsp;
 &nbsp;
@@ -33,9 +28,9 @@ Full Stack Developer @ <b>SteelTrace</b>.
 
 ## Summary 👨🏽‍💻
 
-I am a **Developer**, experienced in **Frontend and Mobile development** using **JavaScript/TypeScript** and frameworks like **ES6/7/8**, **JQuery**, **React.js** and **React Native**, **Redux**, and other languages like **PHP**, **CSS**, **HTML**, **Python** and **Node.js**. I also have done some projects in **C#.Net**. I have worked in some great big projects for companies in different countries. See some of those projects below.
+I am a **Senior Developer** with nearly 8 years of experience, expertised in **Frontend and Mobile development** using **JavaScript/TypeScript** and diverse frameworks and languages. I have also done some projects in **C#.Net**, which is not my main expertise, but I could perform and deliver well. I have worked on some great big projects for companies in different countries, you can know more in my CV and my portfolio website.
 
-Studying and working hard to be the best possible in development is what I got for my life. Getting always up-to-date with the newest technologies and doing always my best for the projects and the Company. This is my passion. And my life achievement is to be ahead of future big and important projects for big companies.
+I'm constantly looking for opportunities where I can perform the best of me as a developer and help the company to achieve the ideal solution or product they design. I like to think about myself as the problem solver, where the client has a request and doesn't know how to make it work, and I bring the solution the fits perfectly (or almost) to what was requested.
 
 <br />
 
